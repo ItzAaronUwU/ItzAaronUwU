@@ -1,1 +1,2 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ItzAaronUwU&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,bootstrap,express,dotnetcore,dotnet)](https://github.com/Jurredr/github-widgetbox) [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,csharp,json,yaml,)](https://github.com/Jurredr/github-widgetbox)
