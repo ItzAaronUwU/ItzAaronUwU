@@ -1,2 +1,2 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ItzAaronUwU&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,bootstrap,express,dotnetcore,dotnet)](https://github.com/Jurredr/github-widgetbox) [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,csharp,json,yaml,)](https://github.com/Jurredr/github-widgetbox)
+[![My Discord](https://discord.c99.nl/widget/theme-1/244560556109856769.png)](https://discord.com/users/244560556109856769)
+[![My Discord Bot](https://discord.c99.nl/widget/theme-1/1052646064718614538.png)](https://support.itzabot.dev)
