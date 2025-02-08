@@ -1,1 +1,1 @@
-[![My Discord](https://lanyard.kyrie25.dev/api/244560556109856769?imgStyle=square&imgBorderRadius=15px&gradient=00AEEA-0094CF-0079B3-005890&useDisplayName=true&waveColor=transparent&waveSpotifyColor=39E4FF&idleMessage=Developing...)](https://discord.com/users/244560556109856769)
+[![My Discord](https://lanyard.kyrie25.dev/api/244560556109856769?imgStyle=square&imgBorderRadius=15px&gradient=00AEEA-0094CF-0079B3-005890&useDisplayName=true&waveColor=transparent&waveSpotifyColor=transparent&idleMessage=Developing...)](https://discord.com/users/244560556109856769)
