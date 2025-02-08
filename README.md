@@ -25,7 +25,7 @@
 
 [<img alt="ItzAaron | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img alt="ItzAaron | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" />][twitter]
-[<img alt="ItzAaron | Twitch" src="https://img.shields.io/badge/twitch-6441A5.svg?&style=for-the-badge&logo=twitch&logoColor=white" />][twitter]
+[<img alt="ItzAaron | Twitch" src="https://img.shields.io/badge/twitch-6441A5.svg?&style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
 
 ---
 
